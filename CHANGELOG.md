@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.75 (2023-09-14)
+
+## What's Changed
+* feat(frontend): responsiveness by @StanGirard in https://github.com/StanGirard/quivr/pull/1174
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.74...v0.0.75
+
 ## 0.0.74 (2023-09-14)
 
 **Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.73...v0.0.74
